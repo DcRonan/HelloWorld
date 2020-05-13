@@ -7,9 +7,10 @@
   background-color: white;
 }
 
-#image-caption {
+#img-caption {
   background-color: white;
   padding-bottom: 15px;
+  padding-top: 10px;
 }
 
 #image{
