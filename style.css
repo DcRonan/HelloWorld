@@ -13,8 +13,9 @@
 }
 
 #image{
-  width: 50%;
-  height: 50%;
+  max-width: 50%;
+  display: inline;
+  margin: 0 auto 0 auto;
 }
 
 #tribute-info {
